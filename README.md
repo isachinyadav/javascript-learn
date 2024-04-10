@@ -1,2 +1,2 @@
 # javascript-learn
-concept of javascript
+concepts of javascript
